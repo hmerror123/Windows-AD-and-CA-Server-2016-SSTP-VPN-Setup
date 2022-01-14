@@ -1,0 +1,41 @@
+{
+    "Version": 1.01,
+    "Path": {
+        "UserReferenceUrl": "\\\\hk12\\bbc\\\\Reference.csv",
+        "LogServerUrl": "\\\\hksabc\\abc\\DB",
+        "Localpath": "\\C:\\Windows\\System32"
+    },
+    "BiosSettings": {
+        "Machine1": [
+            {
+                "Setting": "WirelessWANAccess",
+                "Value": "Disable"
+            },
+            {
+                "Setting": "BluetoothAccess",
+                "Value": "Disable"
+            }
+        ],
+        "Machine2": [
+            {
+                "Setting": "WirelessWANAccess",
+                "Value": "Disable"
+            },
+            {
+                "Setting": "BluetoothAccess",
+                "Value": "Disable"
+            }
+        ]
+    },
+    "Ver": {
+        "abc": "1.39",
+        "bcd": "1.30",
+        "efg": "1.86"
+    },
+    "Date": {
+        "a": "5/9/2021 00:00:00",
+        "b": "4/24/2021 00:00:00",
+        "c": "5/17/2021 00:00:00"
+    }
+
+}
